@@ -8,3 +8,8 @@ $$F=\frac{K\cdot{\left|q_1\right|}\cdot{\left|q_2\right|}}{\mathcal{E}\cdot{R^2}
 $$\bar{\upsilon}=\sqrt{\frac{3\cdot{k}\cdot{T}}{m_0}}$$
 
 ![lagrida_latex_editor (8)](https://user-images.githubusercontent.com/114472646/200515643-ba903a07-0d58-4731-9913-42763c5438aa.png)
+![lagrida_latex_editor (7)](https://user-images.githubusercontent.com/114472646/200515796-4a5b13db-ee76-417c-97d8-04632fe87465.png)
+![lagrida_latex_editor (6)](https://user-images.githubusercontent.com/114472646/200515841-4663f27c-15dc-4241-9fcf-fa5e73c062fc.png)
+![lagrida_latex_editor (5)](https://user-images.githubusercontent.com/114472646/200515869-4ee37063-9664-45db-a899-bff143f9a021.png)
+![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114472646/200515934-afddedbb-589f-488b-8f50-996d66eb0206.png)
+![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114472646/200515947-88503621-dbd0-4bd4-a48d-fb8397271b74.png)
